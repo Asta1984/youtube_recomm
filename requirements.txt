@@ -4,3 +4,4 @@ google-auth-httplib2
 fastapi[standard]
 google-auth
 python-dotenv
+google_auth_oauthlib
