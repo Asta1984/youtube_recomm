@@ -30,3 +30,4 @@ def get_liked_videos(max_results: int = 20) -> List[VideoItem]:
         )
         for item in response.get("items", [])
     ]
+
